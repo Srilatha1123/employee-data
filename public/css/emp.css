@@ -1,0 +1,22 @@
+.a{
+    background-color: rgb(214, 57, 193);
+    width :300px;
+    border: 5px solid rgb(44,44,44);
+    padding: 15px;
+    height: 200px;
+    margin: 48px;
+}
+
+.b{
+    
+    height: 200px;
+    width :300px;
+    border: 5px solid rgb(44,44,44);
+    padding: 15px;
+    margin: 45px;
+    background-color: rgba(16, 94, 139, 0.918);
+    position: relative;
+    
+}
+
+
